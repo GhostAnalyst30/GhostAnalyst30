@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy Emmanuel Ascendra
 
-<!--
-**GhostAnalyst30/GhostAnalyst30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙ Ingeniero Mecatronico | 📊 Científico de Datos | 🐍 Python | 📈 Estadística
 
-Here are some ideas to get you started:
+Soy estudiante de Ingenieria Mecatronica y Ciencia de Datos enfocado en el desarrollo de librerías en Python,
+análisis estadístico y proyectos reproducibles. Listo y con ganas de aprender siempre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn
+- Git & GitHub
+
+---
+
+## 📦 Proyectos destacados
+- 📊 **Libreria_Estadistica**  
+  Librería en Python para análisis estadístico descriptivo  
+  👉 https://github.com/GhostAnalyst30/StatsLibX
+
+---
+
+## 📚 Actualmente aprendiendo
+- Machine Learning
+- Visualización de datos
+- Deep Learning
+
+---
+
+📫 **Contacto**
+- email: ascendraemmanuel@gmail.com
