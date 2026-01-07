@@ -6,26 +6,18 @@ Soy estudiante de Ingenieria Mecatronica y Ciencia de Datos enfocado en el desar
 análisis estadístico y proyectos reproducibles. Listo y con ganas de aprender siempre
 
 ---
-
-## 🚀 Tecnologías
-- Python
-- Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn
-- Git & GitHub
-
----
-
-## 📦 Proyectos destacados
-- 📊 **Libreria_Estadistica**  
-  Librería en Python para análisis estadístico descriptivo  
-  👉 https://github.com/GhostAnalyst30/StatsLibX
-
----
-
-## 📚 Actualmente aprendiendo
-- Machine Learning
-- Visualización de datos
-- Deep Learning
+```javascript
+const GhostAnalyst30 = {
+  pronouns: "Emms" | "he",
+  code: [Python, Java, C++, R],
+  projects: {
+              Libreria_Estadistica: "StatsLibX",
+              Libreria_Machine_Learning: "SynaptIX",
+              Libreria_Visual: "ViewX"
+            },
+ challenge: "Aprendo cada dia sobre machine learning, visualizacion de datos y mucho mas"
+}
+```
 
 ---
 
