@@ -12,7 +12,7 @@ const GhostAnalyst30 = {
   code: [Python, Java, C++, R],
   projects: {
               Libreria_Estadistica: "StatsLibX",
-              Libreria_Machine_Learning: "SynaptIX",
+              Libreria_Academica: "AcademyX",
               Libreria_Visual: "ViewX"
             },
  challenge: "Aprendo cada dia sobre machine learning, visualizacion de datos y mucho mas"
