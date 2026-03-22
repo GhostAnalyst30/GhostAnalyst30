@@ -1,5 +1,4 @@
-# Hola, soy Emmanuel (GhostAnalyst30)
-
+![](https://github.com/GhostAnalyst30/GhostAnalyst30/blob/main/Banner_Github.png)
 ⚙ **Ingeniero Mecatrónico** | 📊 **Científico de Datos** | 🐍 **Python Developer** | 📈 **Estadístico Aplicado**
 
 Soy estudiante de **Ingeniería Mecatrónica** y **Ciencia de Datos**, apasionado por construir herramientas que simplifiquen el análisis estadístico y la visualización. Me intereso por el desarrollo de librerías en Python, análisis reproducibles y proyectos que conectan el mundo físico con el digital. Siempre listo para aprender y compartir conocimiento.
