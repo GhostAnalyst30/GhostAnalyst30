@@ -10,8 +10,6 @@ Soy estudiante de **Ingeniería Mecatrónica** y **Ciencia de Datos**, apasionad
 ![](https://github-readme-stats.vercel.app/api?username=GhostAnalyst30&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAnalyst30&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ```javascript
 const GhostAnalyst30 = {
   pronouns: "Emms" | "he",
@@ -30,11 +28,11 @@ const GhostAnalyst30 = {
 
 ## 🚀 Proyectos
 
-| Librería | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **StatsLibX** | Librería estadística con funciones avanzadas para análisis exploratorio y pruebas de hipótesis. | `Python`, `NumPy`, `SciPy`, `pytest` |
-| **ViewX** | Visualización de datos interactiva con gráficos personalizados para dashboards y presentaciones. | `Python`, `Matplotlib`, `Plotly`, `Seaborn` |
-| **AcademyX** | Herramientas académicas para automatizar tareas, generar reportes y gestionar datos educativos. | `Python`, `Pandas`, `Jupyter` |
+| Librería | Descripción | Tecnologías | Enlaces |
+|----------|-------------|-------------| ------- |
+| **StatsLibX** | Librería estadística con funciones avanzadas para análisis exploratorio y pruebas de hipótesis. | `Python`, `NumPy`, `SciPy`, `pytest` | [StatsLibX](https://github.com/GhostAnalyst30/StatsLibX) |
+| **ViewX** | Visualización de datos interactiva con gráficos personalizados para dashboards y presentaciones. | `Python`, `Matplotlib`, `Plotly`, `Seaborn` | [ViewX](https://github.com/GhostAnalyst30/ViewX) |
+| **AcademyX** | Herramientas académicas para automatizar tareas, generar reportes y gestionar datos educativos. | `Python`, `Pandas`, `Jupyter` | [AcademyX](https://github.com/GhostAnalyst30/AcademyX) |
 
 
 > 🔍 *Cada librería está diseñada pensando en la reproducibilidad, documentación clara y facilidad de uso.*
