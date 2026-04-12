@@ -33,9 +33,24 @@ const GhostAnalyst30 = {
 | **StatsLibX** | Librería estadística con funciones avanzadas para análisis exploratorio y pruebas de hipótesis. | `Python`, `NumPy`, `SciPy`, `pytest` | [StatsLibX](https://github.com/GhostAnalyst30/StatsLibX) |
 | **ViewX** | Visualización de datos interactiva con gráficos personalizados para dashboards y presentaciones. | `Python`, `Matplotlib`, `Plotly`, `Seaborn` | [ViewX](https://github.com/GhostAnalyst30/ViewX) |
 | **AcademyX** | Herramientas académicas para automatizar tareas, generar reportes y gestionar datos educativos. | `Python`, `Pandas`, `Jupyter` | [AcademyX](https://github.com/GhostAnalyst30/AcademyX) |
-
-
 > 🔍 *Cada librería está diseñada pensando en la reproducibilidad, documentación clara y facilidad de uso.*
+
+## 📚 Monitorias
+Acceder a los Recursos: [**Monitorias**](https://ghostanalyst30.github.io/Recursos-de-Monitorias)
+| Asignatura | Link Acceso |
+|------------|-------------|
+| **Calculo Univariable** | [Monitoria Calculo Univariable](https://ghostanalyst30.github.io/Recursos-de-Monitorias/Calculo_Univariable) |
+| **Calculo Multivariable** | **Proximamente...** |
+| **Ecuaciones Diferenciales** | **Proximamente...** |
+| **Algebra Lineal** | **Proximamente...** |
+| **Probabilidad y Estadística** | **Proximamente...** |
+| **Física** | **Proximamente...** | 
+| **Quimica** | **Proximamente** |
+| **Programacion (Python - C++)** | **Proximamente...** |
+| **Señales y Sistemas** | **Proximamente...** |
+| **Metodos Numericos** | **Proximamente...** |
+
+
 
 ---
 
