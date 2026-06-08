@@ -1,56 +1,114 @@
-![](https://github.com/GhostAnalyst30/GhostAnalyst30/blob/main/Banner_Github.png)
-⚙ **Ingeniero Mecatrónico** | 📊 **Científico de Datos** | 🐍 **Python Developer** | 📈 **Estadístico Aplicado**
+<div align="center">
 
-Soy estudiante de **Ingeniería Mecatrónica** y **Ciencia de Datos**, apasionado por construir herramientas que simplifiquen el análisis estadístico y la visualización. Me intereso por el desarrollo de librerías en Python, análisis reproducibles y proyectos que conectan el mundo físico con el digital. Siempre listo para aprender y compartir conocimiento.
+<img src="https://github.com/GhostAnalyst30/GhostAnalyst30/blob/main/Banner_Github.png" width="100%" alt="Banner"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__axcendra_e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ascendra-44273b341/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ascendraemmanuel@gmail.com) 
+<br/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# Emmanuel Ascendra
+### Ingeniería Mecatrónica · Ciencia de Datos · Inteligencia Artificial · Full-Stack
 
-![](https://github-readme-stats.vercel.app/api?username=GhostAnalyst30&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAnalyst30&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p>
+Apasionado por construir soluciones inteligentes que conecten<br/>
+datos, software y sistemas físicos.
+</p>
 
-```javascript
-const GhostAnalyst30 = {
-  pronouns: "Emms" | "he",
-  code: [Python, R],
-  tools: ["Pandas", "Scikit-learn", "TensorFlow", "Git",],
-  projects: {
-    Libreria_Estadistica: "StatsLibX",
-    Libreria_Visual: "ViewX",
-    Libreria_Academica: "AcademyX"    
-  },
-  challenge: "Aprendo cada día sobre machine learning, visualización de datos y mucho más",
-  funFact: "Me encanta optimizar procesos, tanto en código como en la vida real"
-};
+<a href="https://instagram.com/__axcendra_e">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/emmanuel-ascendra/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ascendraemmanuel@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+```yaml
+nombre:     Emmanuel Ascendra
+rol:        Estudiante de Ingeniería Mecatrónica & Ciencia de Datos
+enfoque:    IA · Machine Learning · Digital Twins · Automatización · Full-Stack
+ubicación:  Colombia 🇨🇴
+estado:     Construyendo el futuro, un proyecto a la vez
 ```
----
 
-## 🚀 Proyectos
-
-| Librería | Descripción | Tecnologías | Enlaces |
-|----------|-------------|-------------| ------- |
-| **StatsLibX** | Librería estadística con funciones avanzadas para análisis exploratorio y pruebas de hipótesis. | `Python`, `NumPy`, `SciPy`, `pytest` | [StatsLibX](https://github.com/GhostAnalyst30/StatsLibX) |
-| **ViewX** | Visualización de datos interactiva con gráficos personalizados para dashboards y presentaciones. | `Python`, `Matplotlib`, `Plotly`, `Seaborn` | [ViewX](https://github.com/GhostAnalyst30/ViewX) |
-| **AcademyX** | Herramientas académicas para automatizar tareas, generar reportes y gestionar datos educativos. | `Python`, `Pandas`, `Jupyter` | [AcademyX](https://github.com/GhostAnalyst30/AcademyX) |
-> 🔍 *Cada librería está diseñada pensando en la reproducibilidad, documentación clara y facilidad de uso.*
-
-## 📚 Monitorias
-Acceder a los Recursos: [**Monitorias**](https://ghostanalyst30.github.io/Recursos-de-Monitorias)
-| Asignatura | Link Acceso |
-|------------|-------------|
-| **Calculo Univariable** | [Monitoria Calculo Univariable](https://ghostanalyst30.github.io/Recursos-de-Monitorias/Calculo_Univariable) |
-| **Calculo Multivariable** | **Proximamente...** |
-| **Ecuaciones Diferenciales** | **Proximamente...** |
-| **Algebra Lineal** | **Proximamente...** |
-| **Probabilidad y Estadística** | **Proximamente...** |
-| **Física** | **Proximamente...** | 
-| **Quimica** | **Proximamente** |
-| **Programacion (Python - C++)** | **Proximamente...** |
-| **Señales y Sistemas** | **Proximamente...** |
-| **Metodos Numericos** | **Proximamente...** |
-
-
+> *"La mejor manera de predecir el futuro es construirlo."*
 
 ---
 
+## 🔬 Proyectos Activos
+
+| Proyecto | Descripción | Estado |
+|:--|:--|:--:|
+| 🏠 **Smart Residential Digital Twin** | Gemelo digital residencial impulsado por IA | 🔧 En desarrollo |
+| 🤖 **AI Mentor** | Plataforma de aprendizaje personalizado con memoria persistente | 🔧 En desarrollo |
+| 📊 **StatsLibX** | Librería para análisis estadístico avanzado | 🔧 En desarrollo |
+| 📈 **ViewX** | Framework para visualización de datos | 🔧 En desarrollo |
+| 🌐 **AI Web Platforms** | Plataformas web impulsadas por inteligencia artificial | 🔧 En desarrollo |
+
+---
+
+## ⚙️ Stack Tecnológico
+
+### 🗣️ Lenguajes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 Data Science & IA
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🌐 Desarrollo Web
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🛠️ Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostAnalyst30&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 💡 Filosofía de Trabajo
+
+```python
+class Emmanuel:
+    def __init__(self):
+        self.mission = "Crear tecnología que genere impacto real"
+        self.tools   = ["IA", "Datos", "Automatización", "Software"]
+        self.mindset = "Growth"
+
+    def daily_loop(self):
+        while True:
+            self.learn()    # Nunca dejar de aprender
+            self.build()    # Construir con propósito
+            self.improve()  # Iterar sin miedo
+            self.share()    # El conocimiento se multiplica al compartirse
+```
