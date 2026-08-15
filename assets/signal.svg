@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="560" height="48" viewBox="0 0 560 48" role="img" aria-label="">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="55%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#9B6BFF"/>
+    </linearGradient>
+    <path id="trace" d="M8 24 H64 L86 10 L112 38 L138 18 L160 24 H240 L262 10 L288 38 L314 18 L336 24 H416 L438 10 L464 38 L490 18 L512 24 H552"/>
+  </defs>
+
+  <use xlink:href="#trace" href="#trace" fill="none" stroke="#58A6FF" stroke-opacity="0.18" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <use xlink:href="#trace" href="#trace" fill="none" stroke="url(#wave)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="180 400">
+    <animate attributeName="stroke-dashoffset" values="0;-580" dur="3.6s" repeatCount="indefinite"/>
+  </use>
+
+  <circle r="4" fill="#58A6FF">
+    <animateMotion dur="3.6s" repeatCount="indefinite" rotate="auto">
+      <mpath xlink:href="#trace" href="#trace"/>
+    </animateMotion>
+    <animate attributeName="r" values="3.2;5;3.2" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

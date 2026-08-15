@@ -6,34 +6,14 @@
 
 # **Emmanuel Ascendra**
 
-<svg width="340" height="8" viewBox="0 0 340 8" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gAccent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%">
-        <animate attributeName="stop-color" values="#58A6FF;#9B6BFF;#2DD4BF;#58A6FF" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%">
-        <animate attributeName="stop-color" values="#9B6BFF;#2DD4BF;#58A6FF;#9B6BFF" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%">
-        <animate attributeName="stop-color" values="#2DD4BF;#58A6FF;#9B6BFF;#2DD4BF" dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="340" height="8" rx="4" fill="url(#gAccent)">
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<img src="https://raw.githubusercontent.com/GhostAnalyst30/GhostAnalyst30/main/assets/accent-bar.svg" width="680" alt=""/>
 
-**Mechatronics Engineering & Data Science** · AI · Digital Twins · Full-Stack · Systems Architecture
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=1400&color=58A6FF&center=true&vCenter=true&width=740&height=46&lines=Mechatronics+Engineering+%26+Data+Science;AI+%C2%B7+Digital+Twins+%C2%B7+Full-Stack+%C2%B7+Systems+Architecture" alt="Mechatronics Engineering & Data Science"/>
 
 <p>
-Building intelligent systems where data, software, and physical worlds converge — trained in full-stack development and systems architecture.
-<svg width="12" height="18" viewBox="0 0 12 18" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="9" height="16" rx="1" fill="#2DD4BF">
-    <animate attributeName="opacity" values="1;0.08;1" dur="1.1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+I build intelligent systems where data, software, and the physical world meet — published Python libraries, multi-agent platforms, and digital twins used in competitions and real institutions.
 </p>
 
 <a href="https://www.linkedin.com/in/emmanuel-ascendra/">
@@ -49,27 +29,7 @@ Building intelligent systems where data, software, and physical worlds converge 
   <img src="https://img.shields.io/badge/PyPI-%233775A9.svg?style=for-the-badge&logo=pypi&logoColor=white"/>
 </a>
 
-<svg width="88" height="88" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(44,44)">
-    <circle r="30" fill="none" stroke="#58A6FF" stroke-opacity="0.25" stroke-width="1.5"/>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
-      <circle cx="30" cy="0" r="4" fill="#58A6FF"/>
-    </g>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="13s" repeatCount="indefinite"/>
-      <circle cx="-26" cy="14" r="3" fill="#2DD4BF"/>
-    </g>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="17s" repeatCount="indefinite"/>
-      <circle cx="21" cy="-21" r="2.5" fill="#9B6BFF"/>
-    </g>
-    <circle r="5" fill="#58A6FF">
-      <animate attributeName="r" values="5;7;5" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-</svg>
+<img src="https://raw.githubusercontent.com/GhostAnalyst30/GhostAnalyst30/main/assets/orbit.svg" width="168" alt=""/>
 
 </div>
 
@@ -81,159 +41,173 @@ Building intelligent systems where data, software, and physical worlds converge 
 name:       Emmanuel Ascendra
 alias:      GhostAnalyst30
 role:       Mechatronics Engineering & Data Science Student
-location:   Colombia
+location:   Cartagena, Colombia
 
-training:
-  - Full-Stack Development
-  - Systems Architecture
+ships:
+  - 4 Python libraries on PyPI (stats, viz, ML, scientific computing)
+  - Multi-agent systems with human-in-the-loop gates
+  - Digital twins for students and cities
+  - Full-stack products (FastAPI + Next.js + Supabase)
 
-focus_areas:
-  - Artificial Intelligence & Machine Learning
+focus:
+  - Artificial Intelligence & Multi-Agent Systems
   - Digital Twins & Urban Simulation
-  - Multi-Agent Systems & LLMs
-  - Data Science & Statistical Modeling
-  - Full-Stack Development
-  - System Design & Software Architecture
-  - Python Library Development
+  - Statistical Modeling & Scientific Python
+  - Full-Stack Architecture
 
 philosophy: "The best way to predict the future is to build it."
 ```
 
 <div align="center">
 
-<svg width="220" height="32" viewBox="0 0 220 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <line x1="8" y1="16" x2="96" y2="16" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-dasharray="88" stroke-dashoffset="88">
-    <animate attributeName="stroke-dashoffset" from="88" to="0" dur="2.2s" begin="0.3s" fill="freeze"/>
-  </line>
-  <line x1="124" y1="16" x2="212" y2="16" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-dasharray="88" stroke-dashoffset="88">
-    <animate attributeName="stroke-dashoffset" from="88" to="0" dur="2.2s" begin="0.7s" fill="freeze"/>
-  </line>
-  <circle cx="110" cy="16" r="3.5" fill="#58A6FF">
-    <animate attributeName="r" values="3.5;5;3.5" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="110" cy="16" r="5" fill="none" stroke="#58A6FF" stroke-width="1">
-    <animate attributeName="r" values="5;12;5" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0;0.7" dur="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<img src="https://raw.githubusercontent.com/GhostAnalyst30/GhostAnalyst30/main/assets/divider.svg" width="420" alt=""/>
 
 </div>
 
 ---
 
-## 🏆 Competitive Track Record
+## 🏆 Events & Competitions
 
-| Event | Project | Description |
-|:--|:--|:--|
-| 🥇 **Microsoft Agents League — Battle #2** | **SkillPilot-AI** | Enterprise certification system with 6 reasoning agents + Critic gate (Azure AI + Foundry IQ) |
-| 🥇 **Reto IA Bolívar — UTB** | **UTB Te acompaña** | Anti-dropout platform: deterministic student Digital Twin + explainable risk engine (0–100), LLM counselors (deployed, 22 migrations, 48 commits) |
-| 🏅 **Hackathon CoAfinia** | **S&P 500 Financial Assistant** | Fourier adaptive predictor + chatbot with Groq AI + real-time market data |
-| 🏅 **Hackathon Barranquilla IA** | **EPS Claims Scraper** | Automated disability claims extraction for Colmena Seguros (Playwright + Selenium) |
-| 🏅 **Hackathon Genius Fest** | **inNOVA** | Youth-oriented smart ecosystem platform (Next.js 16 + Supabase + OpenAI) |
-| 🏅 **Hackathon Unitecnar** | **GhostAnalyst** | Paper-validation MVP: 5-agent LangGraph pipeline + Crossref fact-check, clean architecture FastAPI + Next.js |
+| Event | Result | Project | What I built |
+|:--|:--:|:--|:--|
+| **Microsoft Agents League — Battle #2** | 🥇 | [SkillPilot-AI](https://github.com/GhostAnalyst30/agents-league-reasoning) | 6 reasoning agents + Critic gate on Azure AI / Foundry IQ for enterprise certification |
+| **Reto IA Bolívar — UTB** | 🥇 | [UTB Te acompaña](https://github.com/GhostAnalyst30/Reto-IA-Bolivar) | Anti-dropout platform: deterministic student Digital Twin + explainable risk engine 0–100 + LLM counselors |
+| **Hackathon Unitecnar** | 🏅 | [GhostAnalyst](https://github.com/GhostAnalyst30/Hackathon_Unitecnar) | Paper-validation MVP — 5-agent LangGraph pipeline, Crossref fact-check, FastAPI + Next.js |
+| **Hackathon Genius Fest** | 🏅 | [inNOVA](https://github.com/GhostAnalyst30/Nova) | Youth OS for Cartagena — opportunities, jobs, roadmaps and AI mentor (Next.js 16 + Supabase) |
+| **Hackathon CoAfinia** | 🏅 | S&P 500 Financial Assistant | Adaptive Fourier predictor + Groq chatbot + live market context |
+| **Hackathon Barranquilla IA** | 🏅 | EPS Claims Automation | RPA for disability-claim extraction (Playwright + Selenium) — Colmena Seguros |
+| **Samsung Innovation Campus** | 🏅 | RetailMind | Predictive retail: demand, stockout risk and product lifecycle on 3 years of channel data |
+| **PyCon Colombia 2026** | 🎓 | [llms-in-depth](https://github.com/GhostAnalyst30/llms-in-depth) | Workshops: *From ETL to Agentic Workflows* · *LLMs in Depth* (tiny GPT from scratch) |
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GhostAnalyst30/GhostAnalyst30/main/assets/agents.svg" width="520" alt=""/>
+
+</div>
+
+## ⭐ Featured Systems
+
+The work I want you to open first — production-shaped products, not demos.
+
+### 🥇 UTB Te acompaña — student Digital Twin
+Anti-dropout platform for **Universidad Tecnológica de Bolívar**. A deterministic Digital Twin (no LLM in the profile), an auditable risk score 0–100, vocational matching with pgvector, dual portals (student + institution), crisis guardrails and human handoff to psychology.
+
+`Next.js` · `FastAPI` · `LangChain` · `Supabase` · `pgvector` · `OpenRouter` · `RBAC`
+
+[Repository](https://github.com/GhostAnalyst30/Reto-IA-Bolivar)
+
+### 🥇 SkillPilot-AI — enterprise reasoning agents
+Microsoft Agents League system that takes an employee from *“I want to get certified”* to exam-ready. Six specialized agents share a grounded knowledge base; a **CriticAgent** approves or sends work back. Foundry IQ retrieval, business-rule gates, and a live eval harness (groundedness, adherence, citations).
+
+`Python` · `FastAPI` · `Microsoft Agent Framework` · `Azure AI Search` · `Foundry IQ`
+
+[Repository](https://github.com/GhostAnalyst30/agents-league-reasoning)
+
+### GhostAnalyst — paper validation
+Personal research tool: upload a PDF/DOCX, five agents read it in parallel, detect contradictions, verify references against **Crossref**, and return a human-approved score 0–100. Nothing is applied without the author.
+
+`FastAPI` · `LangGraph` · `SQLAlchemy` · `OpenRouter` · `Next.js` · `TipTap`
+
+[Repository](https://github.com/GhostAnalyst30/Hackathon_Unitecnar)
+
+### Atlas Urbis — urban digital twin
+Conversational simulation engine, **Cartagena-first**. 3D / map twin, street graph, congestion metrics, PostGIS + OSM ETL. Built as a long-horizon systems project, not a weekend prototype.
+
+`FastAPI` · `React` · `CesiumJS` · `MapLibre` · `PostGIS` · `NetworkX` · `Docker`
+
+[Repository](https://github.com/GhostAnalyst30/atlas-urbis)
+
+### inNOVA — youth operating system
+Genius Fest platform for leadership, civic participation and employability in Cartagena. AI onboarding, opportunity matching, skill graph, CV generator and a live city map.
+
+`Next.js 16` · `Supabase` · `OpenAI` · `Framer Motion` · `React Flow`
+
+[Repository](https://github.com/GhostAnalyst30/Nova)
+
+### Nexus AI — human evolution OS
+Six reasoning agents around a living **Digital Self**: goals, skill gaps, learning paths, opportunity matching and future simulation. Persistent memory instead of a disposable chatbot.
+
+`Next.js 16` · `Prisma` · `NextAuth` · `OpenRouter`
+
+[Repository](https://github.com/GhostAnalyst30/agents-league-nexus)
 
 ---
 
 ## 📦 Published Libraries
 
-| Library | Version | Description | Links |
+A small scientific-Python ecosystem I design, test and ship to PyPI. StatsLibX, ViewX and SynaptIX share report payloads and dataset loaders — each also works standalone.
+
+| Library | PyPI | What it does | Links |
 |:--|:--:|:--|:--|
-| **StatsLibX** | v0.2.8 | Descriptive, inferential & computational statistics | [PyPI](https://pypi.org/project/statslibx/) · [GitHub](https://github.com/GhostAnalyst30/StatsLibX) |
-| **ViewX** | v0.2.3 | Data visualization framework for Python | [PyPI](https://pypi.org/project/viewx/) · [GitHub](https://github.com/GhostAnalyst30/ViewX) |
-| **ScienceLabX** | — | Scientific computing toolkit | [PyPI](https://pypi.org/project/sciencelabx/) · [GitHub](https://github.com/GhostAnalyst30/ScienceLabX) |
+| **StatsLibX** | [![PyPI](https://img.shields.io/pypi/v/statslibx?label=&color=7c6af7)](https://pypi.org/project/statslibx/) | Descriptive, inferential & computational statistics — pandas/polars, correctness-first inference | [PyPI](https://pypi.org/project/statslibx/) · [GitHub](https://github.com/GhostAnalyst30/StatsLibX) · [Docs](https://statslibx.vercel.app/) |
+| **ViewX** | [![PyPI](https://img.shields.io/pypi/v/viewx?label=&color=4fd1c5)](https://pypi.org/project/viewx/) | Visualization framework — one-line plots, HTML dashboards, EDA reports, slides and PDF | [PyPI](https://pypi.org/project/viewx/) · [GitHub](https://github.com/GhostAnalyst30/ViewX) · [Docs](https://viewx.vercel.app/) |
+| **SynaptIX** | [![PyPI](https://img.shields.io/pypi/v/synaptix?label=&color=9B6BFF)](https://pypi.org/project/synaptix/) | Unified ML API — supervised, unsupervised, RL, neural nets, AutoPipeline | [PyPI](https://pypi.org/project/synaptix/) · [GitHub](https://github.com/GhostAnalyst30/SynaptIX) |
+| **ScienceLabX** | [![PyPI](https://img.shields.io/pypi/v/sciencelabx?label=&color=58A6FF)](https://pypi.org/project/sciencelabx/) | Team scientific-computing toolkit | [PyPI](https://pypi.org/project/sciencelabx/) · [GitHub](https://github.com/GhostAnalyst30/ScienceLabX) |
 
----
-
-## 🔬 Project Ecosystem
-
-### 🤖 AI & Multi-Agent Systems
-| Project | Stack | Description |
-|:--|:--|:--|
-| **Nexus AI** | Next.js 16, Prisma, NextAuth, OpenAI, Microsoft Agent Framework | Human evolution OS — 6 reasoning agents for goal analysis, skill gap detection, learning paths, opportunity matching, profile evolution & future simulation |
-| **SkillPilot-AI** | Python, FastAPI, Microsoft Agent Framework, Foundry IQ, Azure AI Search | 6-agent enterprise certification system with Critic gate validation |
-| **GhostAnalyst** | FastAPI, LangGraph, SQLAlchemy, OpenRouter, Next.js, TipTap | Paper-validation MVP — 5 parallel agents detect contradictions and verify references via Crossref, human-approved score 0–100 |
-| **AI Mentor** | Coming soon | Personalized learning platform with persistent memory |
-
-### 🏙️ Digital Twins & Simulation
-| Project | Stack | Description |
-|:--|:--|:--|
-| **Atlas Urbis** | FastAPI, React, CesiumJS, PostGIS, NetworkX | Urban simulation engine — Cartagena-first conversational digital twin |
-| **UTB Te acompaña** | Next.js, FastAPI, LangChain, Supabase (pgvector), Render/Vercel | Student anti-dropout platform — deterministic Digital Twin + explainable risk engine (0–100) with LLM counselors |
-| **Smart Residential Digital Twin** | Coming soon | AI-powered residential digital twin |
-
-### 📊 Data Science & Analytics
-| Project | Stack | Description |
-|:--|:--|:--|
-| **S&P 500 Fourier Predictor** | Python, Groq AI, Chart.js, NewsAPI | Adaptive Fourier series forecasting + financial chatbot |
-| **StatsLibX** | Python, NumPy, SciPy | Published statistical library on PyPI |
-
-### 🌐 Web Platforms
-| Project | Stack | Description |
-|:--|:--|:--|
-| **inNOVA** | Next.js 16, Supabase, OpenAI, Framer Motion | Youth engagement platform with smart ecosystem features |
-| **EPS Claims Automation** | Python, Playwright, Selenium | Automated healthcare claims scraping for Colmena Seguros |
+```bash
+pip install statslibx viewx synaptix
+```
 
 ---
 
 ## ⚙️ Tech Stack
 
+What I actually use to ship the work above.
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI & Machine Learning
+### AI & Agents
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge&logo=groq&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6B21A8?style=for-the-badge&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Data Science
+### Data & Scientific Python
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-1E6B3E?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Web & Backend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Databases & ORMs
+### Data stores
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Cloud & DevOps
+### Cloud, maps & tooling
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Geospatial & Simulation
-
-![CesiumJS](https://img.shields.io/badge/CesiumJS-6CB4EE?style=for-the-badge&logo=cesium&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgis&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-FF6600?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge&logo=cesium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -241,22 +215,16 @@ philosophy: "The best way to predict the future is to build it."
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=GhostAnalyst30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAnalyst30&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostAnalyst30&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<svg width="260" height="40" viewBox="0 0 260 40" xmlns="http://www.w3.org/2000/svg">
-  <polyline
-    points="0,20 30,20 40,8 55,34 70,16 80,40 95,20 130,20 140,8 155,34 170,16 180,40 195,20 260,20"
-    fill="none" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-    stroke-dasharray="320" stroke-dashoffset="320">
-    <animate attributeName="stroke-dashoffset" from="320" to="0" dur="3s" begin="0.5s" fill="freeze"/>
-  </polyline>
-  <circle cx="140" cy="8" r="3.5" fill="#58A6FF" opacity="0">
-    <animate attributeName="opacity" values="0;1;1" dur="3s" begin="2.2s" fill="freeze"/>
-    <animate attributeName="r" values="3.5;5.5;3.5" dur="1.5s" begin="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<img src="https://raw.githubusercontent.com/GhostAnalyst30/GhostAnalyst30/main/assets/signal.svg" width="560" alt=""/>
 
 </div>
 
@@ -264,15 +232,13 @@ philosophy: "The best way to predict the future is to build it."
 
 ## 📚 Learning Path
 
-I maintain a **[structured Python learning repository](https://github.com/GhostAnalyst30/learning-python)** covering:
+I keep a **[structured Python repository](https://github.com/GhostAnalyst30/learning-python)** from fundamentals to multi-agent systems — 17 modules with notes, exercises and projects:
 
 ```
-📁 Fundamentals → 📁 Data Structures → 📁 OOP → 📁 Libraries →
-📁 Data Analysis → 📁 Visualization → 📁 ML → 📁 Deep Learning →
-📁 Computer Vision → 📁 NLP → 📁 LLMs → 📁 Multi-Agent Systems
+00 Fundamentals → 03 Algorithms → 06 Data Science → 07 Machine Learning
+→ 08 Deep Learning → 10 Modern AI / LLMs → 15 Data Engineering
+→ 16 Multi-Agent Systems
 ```
-
-17 modules from zero to multi-agent systems, with exercises and real projects.
 
 ---
 
@@ -297,6 +263,10 @@ class GhostAnalyst:
 ---
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/GhostAnalyst30/GhostAnalyst30/main/assets/accent-bar.svg" width="420" alt=""/>
+
+<br/>
 
 *"The best way to predict the future is to build it."*
 
