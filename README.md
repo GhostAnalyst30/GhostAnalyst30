@@ -72,7 +72,7 @@ philosophy: "The best way to predict the future is to build it."
 |:--|:--:|:--|:--|
 | **Microsoft Agents League — Battle #2** | 🥇 | [SkillPilot-AI](https://github.com/GhostAnalyst30/agents-league-reasoning) | 6 reasoning agents + Critic gate on Azure AI / Foundry IQ for enterprise certification |
 | **Reto IA Bolívar — UTB** | 🥇 | [UTB Te acompaña](https://github.com/GhostAnalyst30/Reto-IA-Bolivar) | Anti-dropout platform: deterministic student Digital Twin + explainable risk engine 0–100 + LLM counselors |
-| **Hackathon Unitecnar** | 🏅 | [GhostAnalyst](https://github.com/GhostAnalyst30/Hackathon_Unitecnar) | Paper-validation MVP — 5-agent LangGraph pipeline, Crossref fact-check, FastAPI + Next.js |
+| **Hackathon Unitecnar** | 🏅 | [CLUMI](https://github.com/GhostAnalyst30/Hackathon_Unitecnar) | Paper-validation MVP — 5-agent LangGraph pipeline, Crossref fact-check, FastAPI + Next.js |
 | **Hackathon Genius Fest** | 🏅 | [inNOVA](https://github.com/GhostAnalyst30/Nova) | Youth OS for Cartagena — opportunities, jobs, roadmaps and AI mentor (Next.js 16 + Supabase) |
 | **Hackathon CoAfinia** | 🏅 | S&P 500 Financial Assistant | Adaptive Fourier predictor + Groq chatbot + live market context |
 | **Hackathon Barranquilla IA** | 🏅 | EPS Claims Automation | RPA for disability-claim extraction (Playwright + Selenium) — Colmena Seguros |
@@ -105,7 +105,7 @@ Microsoft Agents League system that takes an employee from *“I want to get cer
 
 [Repository](https://github.com/GhostAnalyst30/agents-league-reasoning)
 
-### GhostAnalyst — paper validation
+### CLUMI — paper validation
 Personal research tool: upload a PDF/DOCX, five agents read it in parallel, detect contradictions, verify references against **Crossref**, and return a human-approved score 0–100. Nothing is applied without the author.
 
 `FastAPI` · `LangGraph` · `SQLAlchemy` · `OpenRouter` · `Next.js` · `TipTap`
